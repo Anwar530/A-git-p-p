@@ -22,7 +22,7 @@
     background-color: #000103;
 }
 .container .right h2:hover{
-    text-shadow: 5px 5px 10px red;
+    text-shadow: 5px 5px 10px yellow;
     font-size: 60px;
-    color: yellow;
+    color: red;
 }
